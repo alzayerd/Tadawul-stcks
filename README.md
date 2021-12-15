@@ -20,6 +20,9 @@ value_traded (Decimal): The value of the trades for the day
 no_trades (Decimal): The number of trades for the day
 # Problem
 Using data science in the stock market is not new, but that doesn't apply for Saudi Stock Exchange (Tadawul), It needs to be explored and studied deeply, s we can identify the days with a very large number of trades and try to understand the reason behind it as well as predict the stocks prices
+#Questions 
+
+
 # Dataset 
 This is the data of Saudi stock market companies since 2000-01-01. It was collected from Saudi Stock Exchange (Tadawul) https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul
 # Experimental Setup 
