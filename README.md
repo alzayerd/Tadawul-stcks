@@ -25,4 +25,4 @@ This is the data of Saudi stock market companies since 2000-01-01. It was collec
 # Experimental Setup 
 This machine learning model was done using google Colab and Python programming langauge. Google Colab is a Google Research product, which allows developers to write and execute Python code through their browser. Also, Matplotlib, Pandas, Seaborn, Scikit-learn, and Numpy libraries have been used to perform this model. 
 # Machine Learning Algorithm 
-Linear Regression 
+Linear Regression Algotithm 
