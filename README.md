@@ -37,6 +37,8 @@ Using data science in the stock market is not new, but that doesn't apply for Sa
 Can you identify the dates with a very large number of trades for a specific period of time? 
 
 Can you predict the stocks prices for a specific set of features?  
+
+Can you compare the companies based on the total traded values? 
 # Dataset 
 This is the data of Saudi stock market companies since 2000-01-01. It was collected from Saudi Stock Exchange (Tadawul) https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul
 # Experimental Setup 
