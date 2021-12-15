@@ -5,18 +5,31 @@ Saudi Stock Exchange or Tadāwul is a stock exchange in Saudi Arabia. Tadawul wa
 Each row in the database represents the price of a specific stock at a specific date:
 
 symbol (Integer): The symbol or the reference number of the company
+
 name(String) Name of the company
+
 trading_name (String): The trading name of the company
+
 sectoer (String): The sector in which the company operates
+
 date (Date): The date of the stock price
+
 open (Decimal): The opening price
+
 high (Decimal): The highest price of the stock at that day
+
 low (Decimal): The lowest price of the stock at that day
+
 close (Decimal): The closing price
+
 change (Decimal): The change in price from the last day
+
 perc_Change (Decimal): The percentage of the change
+
 volume_traded (Decimal): The volume of the trades for the day
+
 value_traded (Decimal): The value of the trades for the day
+
 no_trades (Decimal): The number of trades for the day
 # Problem
 Using data science in the stock market is not new, but that doesn't apply for Saudi Stock Exchange (Tadawul), It needs to be explored and studied deeply, so we can identify the days with a very large number of trades and try to understand the reason behind it as well as predict the stocks prices
